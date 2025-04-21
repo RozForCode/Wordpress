@@ -2,7 +2,7 @@
 
 ## [Wordpress 5 Essential Training](https://www.linkedin.com/learning/wordpress-essential-training-24651128/getting-started-with-wordpress?u=2272289)
 
-<p style={text-align:center}>Part 1</p>
+<p align="center">Part 1</p>
 Wordpress is used for 2 out of every 5 websites on the internet<br>
 It is open-source<br>
 Latest version brought this - roolbacks, preview, more customization options, more accessibility features and performance optimizations<br>
@@ -12,4 +12,4 @@ Latest version brought this - roolbacks, preview, more customization options, mo
 <br>
 _for wordpress.com check another linkedIn Learning Course called Wordpress.com Essentials_
 <hr>
-<p style={text-align:center}>Part 2</p>
+<p align="center">Part 2</p>
