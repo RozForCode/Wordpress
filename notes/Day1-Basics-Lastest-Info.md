@@ -14,9 +14,11 @@ _for wordpress.com check another linkedIn Learning Course called Wordpress.com E
 <hr>
 <p align="center">Part 2</p>
 <br>
+
 - Launching a wordpress website - Use Pressable - (you'll need your own domain, its a hosting website)
-- Every wordpress install has alteast one user, if you go to your website's url and login as admin you can make changes to the website
+- Every wordpress install has at least one user, if you go to your website's url and login as admin you can make changes to the website
 - Every role has different functions
 - GUI for adding new Users is quite intuitive
 - For security add SSL (secure socket layer), hosting services usually provide it for free, if not use plugin - Really Simple SSl
+
 <hr>
