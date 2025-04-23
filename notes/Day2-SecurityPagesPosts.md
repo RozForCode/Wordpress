@@ -15,3 +15,9 @@
 - GUI - new page option after publishing a page
 
 ** Designing and Customizing a page **
+
+- Wire frame - visual outline of what will be included in the page
+- add title, then build page with blocks, play around with block settings and styles
+- column block can have blocks nested within
+
+** Managing Pages **
