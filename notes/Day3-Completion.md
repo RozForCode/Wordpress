@@ -8,3 +8,9 @@ There are plugins for almost everything, over 60,000 plugins and more are added 
 - We can add css
 
 <p align="center">Part 2 - Design and Customization</p>
+
+- Menu - Either Appearances Menu or Site Editor Menu aka Gutenberg
+- Footer - Appearance > customize > Footer or Appearance > Editor > Patterns > Footer (Block way)
+- Block Editor - Lets you be granular, right-hand side with 2 options settings and style, many shortcuts and options
+
+<p align="center">Part 3 - Media</p>
