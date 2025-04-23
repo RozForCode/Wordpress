@@ -25,3 +25,21 @@
 - Pages have multiple options in pages menu, for searching and also have quick edit options.
 - Can change url, title, order, status
 - For multiple pages at a time, select them and use GUI options ( pretty intuitive)
+
+<p align="center">Part 3 - Posts</p>
+Quite similar to pages but used to different purposes
+
+_Difference between pages and posts_
+
+- Pages are static whereas posts are for timely content
+
+- Creation is similar to pages
+
+** Some facts **
+
+- Different themes treat images differently, but there are plugins that can be used to fix this
+- To manage use Posts in the left side menu list and rest is similar to pages
+- Manage posts based on their meta-data
+- Categories - hierarchical, if not assigned to a post, wordpress will automatically assign it non categorized
+- Also manage tags similarly
+- Categories are broad topic groupings, while tags are specific keywords describing post details.
