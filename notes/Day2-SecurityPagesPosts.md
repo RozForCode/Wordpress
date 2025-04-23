@@ -21,3 +21,7 @@
 - column block can have blocks nested within
 
 ** Managing Pages **
+
+- Pages have multiple options in pages menu, for searching and also have quick edit options.
+- Can change url, title, order, status
+- For multiple pages at a time, select them and use GUI options ( pretty intuitive)
