@@ -14,3 +14,8 @@ There are plugins for almost everything, over 60,000 plugins and more are added 
 - Block Editor - Lets you be granular, right-hand side with 2 options settings and style, many shortcuts and options
 
 <p align="center">Part 3 - Media</p>
+
+- Adding files is quire intuitive
+- Managing files - select an image and then you can manage it's meta data, also editing available for images within wordpress
+
+<p align="center">Part 4 - Maintenance</p>
