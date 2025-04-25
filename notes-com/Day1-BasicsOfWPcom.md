@@ -10,3 +10,6 @@
 
 - Created account and got this free domain - navrosejohal.wordpress.com where I'll follow along
 - Created a post and launched the site
+- Security - bulk of the work to keep the site secure is done by the providers
+
+<p align="center">Part 3 - Managing your site</p>
